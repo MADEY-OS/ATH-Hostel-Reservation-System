@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YQtm3EytnPLXgSa5Z97uXgAgnn0DzDrW3uq4aliAQ18mDexiUWJ8FQjfttRUcSuJKd4KMwHQVzgszbFYkFB3fw==",
+  "dgSpecHash": "f4OlbPeEjWzVVcncutv6kAUyS/ea0Qsznn7W8PQlzf7sDicn4UnBjlK9QhxMbYQv6UUdYF2/6TmjnuMJvtNgUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\madej\\Desktop\\GitHub\\ATHHRS\\ATHHRS.Web\\ATHHRS.Web.csproj",
+  "projectFilePath": "C:\\Users\\madej\\Desktop\\GitHub\\ATHHRS\\ATH-Hostel-Reservation-System\\ATHHRS.Web\\ATHHRS.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\madej\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\madej\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

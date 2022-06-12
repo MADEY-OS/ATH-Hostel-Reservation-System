@@ -11,53 +11,57 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = ATHHRS.Web
 build_property.RootNamespace = ATHHRS.Web
-build_property.ProjectDir = C:\Users\madej\Desktop\GitHub\ATHHRS\ATHHRS.Web\
+build_property.ProjectDir = C:\Users\madej\Desktop\GitHub\ATHHRS\ATH-Hostel-Reservation-System\ATHHRS.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\madej\Desktop\GitHub\ATHHRS\ATHHRS.Web
+build_property.MSBuildProjectDirectory = C:\Users\madej\Desktop\GitHub\ATHHRS\ATH-Hostel-Reservation-System\ATHHRS.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/App.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Pages/Contact.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Pages/Contact.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Pages/DisplayError.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Pages/DisplayError.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUVycm9yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Pages/HostelDetails.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Pages/HostelDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9zdGVsRGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Pages/Hostels.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Pages/Hostels.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9zdGVscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Shared/SurveyPrompt.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/_Imports.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Pages/DisplayHostels.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Pages/DisplayHostels.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUhvc3RlbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-u5w02j318o
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Pages/DisplayLoading.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Pages/DisplayLoading.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGlzcGxheUxvYWRpbmcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8r1aawincw
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Shared/MainLayout.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zh301zaxg1
 
-[C:/Users/madej/Desktop/GitHub/ATHHRS/ATHHRS.Web/Shared/NavMenu.razor]
+[C:/Users/madej/Desktop/GitHub/ATHHRS/ATH-Hostel-Reservation-System/ATHHRS.Web/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ld908hzb4h
