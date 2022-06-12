@@ -1,0 +1,31 @@
+﻿@page "/hostels"
+@inherits HostelsBase
+
+@if (Hostels == null)
+{
+    <h3 class="mt-5">Wczytywanie hosteli...</h3>
+    <DisplayLoading></DisplayLoading>
+}
+else
+{
+    var hostelCount = Hostels.Count();
+
+    <h3 class="mt-5">Lista Hosteli</h3>
+    <p>Znaleziono @hostelCount hosteli.</p>
+    <hr class="mb-3"/>
+
+    @if (hostelCount > 0)
+    {
+        const int itemsPerRow = 4;
+        var hostelRowList = new List<HostelViewModel>();
+
+        @for (int i = 0; i < hostelCount; i++)
+        {
+            hostelRowList = Hostels.Skip(i * itemsPerRow).Take(itemsPerRow).ToList();
+
+            <div class="row mt-3">
+               <DisplayHostels Hostels="@hostelRowList"></DisplayHostels>
+            </div>
+        }
+    }
+}

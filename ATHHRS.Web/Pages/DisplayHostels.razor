@@ -1,0 +1,22 @@
+﻿@inherits ATHHRS.Web.Components.DisplayHostelsBase
+@foreach (var item in Hostels)
+{
+    <div class="col-md-3 mb-2">
+        <a href="/Hostel/@item.Id">
+            <div class="card">
+                <img class="img-thumbnail" src="@item.ImageUrl"/>
+                <div class="card-body">
+                    <h5 class="card-title mb-3">
+                        @item.Name
+                    </h5>
+                    <p class="card-text">
+                        @item.Description
+                    </p>
+                    <p class="card-text">
+                        <b>@item.City</b>
+                    </p>
+                </div>
+            </div>
+        </a>
+    </div>
+}
